@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Shrivastava</h1>
-<h3 align="center">Freak contributor : Android-developer : Machine Learning  </h3>
+<h3 align="center">Freak contributor || Android-developer || Machine Learning  ||Flutter Developer</h3>
 <br>
 <br>
-<img alt="coding" align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<h3>👨‍💻</h3>
 
 <h3 align="left">About Me 😊</h3>
  
@@ -13,7 +13,7 @@
 
 - 💻 I'm also sharping up my **problem-solving skills**
 
-- 🎐 I'm also interested in Machine Learning.
+- 🎐 I'm also interested in Android-app Development.
 
 
 <br>
@@ -21,7 +21,8 @@
 <h3 align="left">Connect with me ❤</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-2001/" 
-target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+target="blank"><img align="center" src="![image](https://github.com/harshu-2001/harshu-2001/assets/53346395/098fd04d-4339-48a7-a0df-5e3d36173831)
+"  height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshu_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh-2001" height="30" width="40" /></a>
 </p>
 
